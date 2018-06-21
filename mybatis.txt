@@ -2,3 +2,5 @@ BoundSql：一个实际的SQL字符串包括占位符(?)
 ParameterMappings:即BoundSql中的占位符(?)对应的参数映射
 
 返回自增主键值：useGeneratedKeys="true"	keyProperty="id"
+
+不使用缓存：
