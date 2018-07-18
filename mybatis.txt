@@ -4,4 +4,4 @@ ParameterMappings:即BoundSql中的占位符(?)对应的参数映射
 返回自增主键值：useGeneratedKeys="true"	keyProperty="id"
 
 不使用缓存：flushCache="true" useCache="false"
-insert add test
+insert add test版本
